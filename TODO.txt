@@ -3,3 +3,7 @@ TODO for pyfilt
 design FS
 t/
 doc/
+---
+authent-Infrastructure (passwd? sshkey?)
+others: commit directly? pull-request? 
+what about branches?
