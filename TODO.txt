@@ -4,6 +4,8 @@ design FS
 t/
 doc/
 ---
+
+Workflow:
 authent-Infrastructure (passwd? sshkey?)
 others: commit directly? pull-request? 
 what about branches?
