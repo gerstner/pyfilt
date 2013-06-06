@@ -9,3 +9,5 @@ Workflow:
 authent-Infrastructure (passwd? sshkey?)
 others: commit directly? pull-request? 
 what about branches?
+
+hurra, ich war da, Grüße Julia.
